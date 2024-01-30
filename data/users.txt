@@ -1,0 +1,4 @@
+Nome: Gilberto pereira do Nascimento Junior, Idade: 20, Profissão: Desenvolvedor
+Nome: Artur andrade, Idade: 40, Profissão: professor
+Nome: luan santana, Idade: 15, Profissão: ator
+Nome: Gilberto Pereira, Idade: 23, Profissão: doctor
